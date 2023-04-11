@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+#JK
 describe String do
   # Let creates a helper method with a memoized value that is cached for the
   # same example but not across different examples. Let is lazy-evaluated;
